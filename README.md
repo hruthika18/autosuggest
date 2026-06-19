@@ -4,7 +4,12 @@ Verifying my git set-up :)
 
 set-up verified !!
 
-changes flow for pushing
+**UI:**
 1. add(plus button)
 2. commit with message
 3. push/sync
+
+**Commands:**
+1. git add -A
+2. f\git commit -m "some message"
+3. git push
