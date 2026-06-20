@@ -16,3 +16,24 @@
 .main-content {
     text-align: center;
 }
+
+.logo {
+    color: blue;
+}
+
+.tagline {
+    color: gray;
+}
+
+.search-box {
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.lens {
+    position: relative;
+    left: 33px;
+}
