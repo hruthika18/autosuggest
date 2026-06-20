@@ -26,6 +26,7 @@ function toggle() {
     document.getElementById("user-name").innerText = user.name;
 
     // gender
-    document.getElementById("user-gender").textContent = user.gender;
+    document.getElementById("user-gender").innerText = user.gender;
+    // document.getElementById("user-gender").textContent = user.gender;
 }
 
